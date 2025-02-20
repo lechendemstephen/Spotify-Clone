@@ -1,0 +1,5 @@
+/* filepath: /C:/Users/Teq Admin/OneDrive/Desktop/React Js/spotify-clone/src/index.css */
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
